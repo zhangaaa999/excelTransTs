@@ -17,6 +17,6 @@ pip install pandas
 
 ### 运行脚本
 ```
-python excelTransTs
+python excelTransTs.py
 ```
 运行完成以后，会在Ts文件夹中，生成对应的ts文件；
