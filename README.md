@@ -1,0 +1,2 @@
+# excelTransTs
+博毅创为cocoscreator课程 MVC框架中，EXCEL文件转换成TS文件的小工具，python3实现
